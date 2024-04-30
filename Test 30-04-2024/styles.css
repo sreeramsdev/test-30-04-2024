@@ -1,0 +1,33 @@
+
+
+
+#boxdiv{
+    height: 100px;
+    width: 200px;
+    background-color: black;
+    margin-left: 670px;
+    margin-top: 300px;
+}
+#btn-click{
+    height: 40px;
+    width: 70px;
+    margin-left: 670px;
+}
+#count{
+    margin-left: 670px;
+}
+#btn-reset{
+    height: 40px;
+    width: 70px;
+    
+}
+#clr-change1{
+    height: 40px;
+    width: 70px;
+    
+}
+#clr-change2{
+    height: 40px;
+    width: 70px;
+    
+}
